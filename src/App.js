@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 
 const test = 'just a test';
-console.log(test);
+console.log('test',test);
 
 class App extends Component {
   render() {
