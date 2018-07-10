@@ -4,6 +4,7 @@ import './App.css';
 
 const test = 'just a test';
 console.log('test',test);
+console.log('test');
 
 class App extends Component {
   render() {
